@@ -9,3 +9,4 @@ keywords = ["gc", "gpu", "lattice", "ternary", "memory"]
 categories = ["memory-management", "algorithms"]
 
 [dependencies]
+documentation = "https://docs.rs/ternary-lattice-gc"
