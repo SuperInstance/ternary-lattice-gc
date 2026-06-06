@@ -1,0 +1,11 @@
+[package]
+name = "ternary-lattice-gc"
+version = "0.1.0"
+edition = "2021"
+description = "Lattice-based garbage collection for GPU object graphs with ternary liveness"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-lattice-gc"
+keywords = ["gc", "gpu", "lattice", "ternary", "memory"]
+categories = ["memory-management", "algorithms"]
+
+[dependencies]
