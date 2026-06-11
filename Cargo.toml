@@ -5,8 +5,8 @@ edition = "2021"
 description = "Lattice-based garbage collection for GPU object graphs with ternary liveness"
 license = "MIT"
 repository = "https://github.com/SuperInstance/ternary-lattice-gc"
+documentation = "https://docs.rs/ternary-lattice-gc"
 keywords = ["gc", "gpu", "lattice", "ternary", "memory"]
 categories = ["memory-management", "algorithms"]
 
 [dependencies]
-documentation = "https://docs.rs/ternary-lattice-gc"
